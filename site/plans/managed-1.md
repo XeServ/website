@@ -23,6 +23,7 @@
  - Backups - $1/GB/times per month
 
 ## Initial Cost: (extra servers are on the house)
+
  - Setup of LAMP stack - $15
   - Server configuration to DOD standards
   - Apache installation
@@ -32,6 +33,7 @@
  - Installation and tuning of Wordpress - $15
 
 ### Incidents
+
  - Any event of downtime that was preventable
  - On a best-effort basis to fix it and return to normal operation
  - $25/hour base cost with additional problems increasing it to a maximum of $100 total incident cost
